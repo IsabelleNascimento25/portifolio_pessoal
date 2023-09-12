@@ -17,17 +17,28 @@ localização: Marista Social Irmão Acácio  <br>
 ## ⚙️Funcionalidades
 
 ### 📱Tecnologias utilizadas
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  <br>
+ Version: 1.80.2 (system setup)  
+Commit: 2ccd690cbff1569e4a83d7c43d45101f817401dc  
+Date: 2023-07-27T20:40:28.909Z  
+Electron: 22.3.14  
+ElectronBuildId: 22695494  
+Chromium: 108.0.5359.215   
+V8: 10.8.168.25-electron.0  
+OS: Windows_NT x64 10.0.22000  
 ## 🔠Fontes consultadas
 
-  * ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
+  * Exemplo: <br>
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
  Usado para a exemplificação do documentação do arquivo README <br>
-  * ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <br>
- perfil utilizado: <br>
- ![lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 
- 
- 
+  * Consultas utilizadas: <br>
+ ![lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) <br>
+ [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) <br>
+ Usadas para a documentação adequada do do arquivo
+
+
 ## ✒️Autores
   * [Isabelle Nascimento](https://github.com/IsabelleNascimento25)
   * [mdo](https://twitter.com/mdo)
