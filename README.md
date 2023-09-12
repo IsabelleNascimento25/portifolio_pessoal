@@ -29,13 +29,14 @@ V8: 10.8.168.25-electron.0
 OS: Windows_NT x64 10.0.22000  
 ## 🔠Fontes consultadas
 
+
   * Exemplo: <br>
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
  Usado para a exemplificação do documentação do arquivo README <br>
 
   * Consultas utilizadas: <br>
- ![lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) <br>
- [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) <br>
+ ![image](img/github.png)[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) <br>
+ ![image](img/alura.jpg) [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) <br>
  Usadas para a documentação adequada do do arquivo
 
 
