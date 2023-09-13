@@ -15,7 +15,7 @@ Aula: Programação Web I <br>
 Professor: Leonardo Santiago Sidon da Rocha  <br>
 localização: Marista Social Irmão Acácio  <br>
 ## ⚙️Funcionalidades
-Desenvolvendo uma guia na tela inicial que permite você sair do menu principal, acessar as funcionalidades, entrar em contato com os contatos e também explorar informações adicionais.
+Desenvolvendo uma guia na tela inicial que permite você sair do menu principal, acessar as funcionalidades, entrar em contato e também explorar informações adicionais.
 
 ### 📱Tecnologias utilizadas
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
