@@ -38,7 +38,7 @@ OS: Windows_NT x64 10.0.22000
   * Consultas utilizadas: <br>
  <img src="img/github.png" width="20px">[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) <br>
  <img src="img/alura.jpg" width="20px">[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) <br>
- Usadas para a documentação adequada do do arquivo
+ Usadas para a documentação adequada do arquivo
 
 
 ## ✒️Autores
